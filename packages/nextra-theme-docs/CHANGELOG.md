@@ -1,5 +1,13 @@
 # nextra-theme-docs
 
+## 3.2.5
+
+### Patch Changes
+
+- b34def7: Forked Nextra
+- Updated dependencies [b34def7]
+  - nextra@3.2.5
+
 ## 3.2.4
 
 ### Patch Changes

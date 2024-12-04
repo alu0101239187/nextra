@@ -1,5 +1,11 @@
 # nextra
 
+## 3.2.5
+
+### Patch Changes
+
+- b34def7: Forked Nextra
+
 ## 3.2.4
 
 ### Patch Changes
